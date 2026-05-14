@@ -18,4 +18,5 @@ int main(){
   printf("\nv2: ");
   for(int i=0;i<10;i++)
     printf("%d, ",v2[i]);
+  printf("\n");
 }

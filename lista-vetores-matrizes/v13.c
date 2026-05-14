@@ -29,5 +29,5 @@ int main(){
   for(int i=0;i<N;i++)
     printf("%d, ",v[i]);
   printf("\nPosição do maior: %d",posMaior);
-  printf("\nPosição do menor: %d",posMenor);
+  printf("\nPosição do menor: %d\n",posMenor);
 }

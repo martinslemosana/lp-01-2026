@@ -19,4 +19,5 @@ int main(){
   printf("\nOrdem inversa: ");
   for(int i=N-1;i>=0;i--)
     printf("%d, ",v[i]);
+  printf("\n");
 }

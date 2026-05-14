@@ -19,5 +19,5 @@ int main(){
     soma += alunos[i];
   }
   media = soma/N;
-  printf("\nMedia geral: %.2f",media);
+  printf("\nMedia geral: %.2f\n",media);
 }

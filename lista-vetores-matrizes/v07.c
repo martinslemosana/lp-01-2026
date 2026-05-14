@@ -20,5 +20,5 @@ int main(){
   }
 
   printf("\nMaior: %d",maior);
-  printf("\nPosição: %d",pos);
+  printf("\nPosição: %d\n",pos);
 }

@@ -29,5 +29,5 @@ int main(){
   for(int i=0;i<6;i++){
     printf("\n%d",a[i]);
   }
-
+  printf("\n");
 }

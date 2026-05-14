@@ -19,5 +19,5 @@ int main(){
   }
 
   printf("\nQuantidade de números negativos: %d",contNeg);
-  printf("\nSoma dos números positivos: %.2f",somaPos);
+  printf("\nSoma dos números positivos: %.2f\n",somaPos);
 }

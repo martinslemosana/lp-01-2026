@@ -26,5 +26,5 @@ int main(){
     }
   }
 
-  printf("\n%d números maiores que 10.",cont);
+  printf("\n%d números maiores que 10.\n",cont);
 }

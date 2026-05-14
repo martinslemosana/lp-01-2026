@@ -20,6 +20,6 @@ int main(){
   }
 
   printf("\nMaior: %d",maior);
-  printf("\nMenor: %d",menor);
+  printf("\nMenor: %d\n",menor);
 }
 

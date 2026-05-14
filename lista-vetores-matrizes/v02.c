@@ -12,4 +12,5 @@ int main(){
   for(int i=0;i<6;i++){
     printf("%d, ",v[i]);
   }
+  printf("\n");
 }

@@ -26,5 +26,5 @@ int main(){
     scanf("%d",&x);
   }
 
-  printf("\nv[%d] + v[%d] = %d",x,y,v[x]+v[y]);
+  printf("\nv[%d] + v[%d] = %d\n",x,y,v[x]+v[y]);
 }

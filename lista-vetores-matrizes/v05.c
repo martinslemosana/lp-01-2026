@@ -16,5 +16,5 @@ int main(){
       cont++;
   }
 
-  printf("\n%d números pares.",cont);
+  printf("\n%d números pares.\n",cont);
 }

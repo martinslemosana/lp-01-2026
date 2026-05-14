@@ -14,4 +14,5 @@ int main(){
   for(int i=M-1;i>=0;i--){
     printf("%d, ",v[i]);
   }
+  printf("\n");
 }

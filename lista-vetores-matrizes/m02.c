@@ -11,4 +11,12 @@ int main(){
         m[i][j] = 0;
     }
   }
+
+  printf("\nMatriz:\n");
+  for(int i=0;i<5;i++){
+    for(int j=0;j<5;j++){
+      printf("%d\t",m[i][j]);
+    }
+    printf("\n");
+  }
 }
